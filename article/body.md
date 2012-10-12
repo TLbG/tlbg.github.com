@@ -7,7 +7,8 @@ Lojbanは人工言語の一つです。くわしくはwikipediaを。
 TLjG == Tsukuba Lojban Group | la lojbangirz pe la tsukubas.
 
 #la lojbangirz pe la tsukubas. mo
-TLjGでは、Lojban初心者が興味をもって調べ、勉強しあうことを目的としています。
-語学は、回りに話者がいない環境で、一人で学習することが難しいので、初心者同士助け合うことにしてます。
+TLjGでは、Lojban初心者がそれぞれ興味をもって調べ、勉強しあうことを目的としています。
+語学は、回りに話者がいない環境では一人で学習することが難しいので、初心者同士助け合うことにしてます。
+
 
 
